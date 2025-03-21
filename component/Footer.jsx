@@ -11,7 +11,7 @@ export default function Footer() {
         <div className="flex flex-col gap-4 lg:w-1/3">
           <div className="flex items-center gap-2">
             <Heart className="h-6 w-6 text-primary" />
-            <span className="text-xl font-bold">MediCare Hospital</span>
+            <span className="text-xl font-bold">Hospital</span>
           </div>
           <p className="text-muted-foreground">
             Providing compassionate care and cutting-edge medical services to
